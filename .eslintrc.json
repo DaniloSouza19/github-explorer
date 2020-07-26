@@ -29,6 +29,10 @@
         "prettier"
     ],
     "rules": {
+      "react/jsx-one-expression-per-line": "off",
+      "operator-linebreak": "off",
+      "object-curly-newline": "off",
+      "camelcase": "off",
       "prettier/prettier": "error",
       "react-hooks/rules-of-hooks": "error",
       "react-hooks/exhaustive-deps": "warn",
